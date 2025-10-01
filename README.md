@@ -3,4 +3,4 @@
 <h2>Projects:</h2>
 
 - [Automated Phishing Email Analyzer (Python, Gmail API)](https://github.com/Arm7ni/Automated-Phishing-Email-Analyzer-Python-Gmail-API-)
--  [Deepfake Detection with Python]()
+-  [Deepfake Detection with Python](https://github.com/Arm7ni/Deepfake-Detection-with-Python/blob/main/README.md)
